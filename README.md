@@ -55,7 +55,7 @@
         rel="noreferrer"> <img
             src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png"
             alt="Java" width="40" height="40" /> </a>
-     rel="noreferrer"> <img
+            <img
             src="https://cutecdn.codingdojo.com/svg_images/curriculum/mern_icon.svg"
             alt="MERN" width="40" height="40" /> </a>
             
