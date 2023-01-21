@@ -11,9 +11,6 @@
 
 - 📫 How to reach me **m.basim.ismail@gmail.com**
 
-- 📄 Know about my experiences
-[https://drive.google.com/drive/folders/1GMPS3tasLdHUmNtD2x-UlbSTaE9RYr-p?usp=sharing](https://drive.google.com/drive/folders/1GMPS3tasLdHUmNtD2x-UlbSTaE9RYr-p?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/mohammadbismail" target="blank"><img align="center"
@@ -57,7 +54,12 @@
             alt="python" width="40" height="40" /> </a> <a href="https://www.java.com/en/" target="_blank"
         rel="noreferrer"> <img
             src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png"
-            alt="Java" width="40" height="40" /> </a></p>
+            alt="Java" width="40" height="40" /> </a>
+     rel="noreferrer"> <img
+            src="https://cutecdn.codingdojo.com/svg_images/curriculum/mern_icon.svg"
+            alt="MERN" width="40" height="40" /> </a>
+            
+</p>
 
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadbismail&show_icons=true&locale=en&layout=compact"
