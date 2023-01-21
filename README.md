@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently Open to work
 
-- 🌱 I’m currently learning **Full Stack Development** with AXSOS Academy
+- 🌱 I have finished **Full Stack Development** bootcamp with AXSOS Academy
 
 - 📫 How to reach me **m.basim.ismail@gmail.com**
 
