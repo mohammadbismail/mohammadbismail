@@ -10,7 +10,8 @@
 - 🌱 I have finished **Full Stack Development** bootcamp with AXSOS Academy
 
 - 📫 How to reach me **m.basim.ismail@gmail.com**
-- https://ko-fi.com/mobismail
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W0J1I56)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
